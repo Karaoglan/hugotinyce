@@ -1,0 +1,4 @@
+baseURL = "http://burakkaraoglan.com/"
+languageCode = "en-us"
+title = "Blogging with mbK"
+theme = "tinyce"
